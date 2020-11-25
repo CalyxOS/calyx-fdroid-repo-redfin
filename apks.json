@@ -12,8 +12,8 @@
     "baseUrl": "https://gitlab.com/CalyxOS/calyx-fdroid-repo-apks/-/raw/master/microg/GmsCore/GmsCore-walleye.apk"
   },
   {
-    "name": "GmsCore-sunfish",
-    "baseUrl": "https://gitlab.com/CalyxOS/calyx-fdroid-repo-apks/-/raw/master/microg/GmsCore/GmsCore-sunfish.apk"
+    "name": "GmsCore-redfin",
+    "baseUrl": "https://gitlab.com/CalyxOS/calyx-fdroid-repo-apks/-/raw/master/microg/GmsCore/GmsCore-redfin.apk"
   },
   {
     "name": "TrichromeChrome",
